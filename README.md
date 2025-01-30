@@ -1,2 +1,2 @@
 # Voron-Legacy
-Bits and pieces for the Voron Legacy
+Bits and pieces for my Voron Legacy build
